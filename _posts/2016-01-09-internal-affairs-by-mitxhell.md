@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://soundcloud.com/mitxhell_iconic/internal-affairs/recommended'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Song - Internal Affairs Artist - Mitxhell Produced by: Dank The Producer Recorded @ - Iconic Studios Copyright Iconic Entertainment Records'
-datePublished: '2016-01-09T19:52:44.712Z'
-dateModified: '2016-01-09T19:52:34.500Z'
+datePublished: '2016-01-09T20:23:30.922Z'
+dateModified: '2016-01-09T20:16:32.207Z'
 author:
   - name: Mitxhell
     url: 'http://soundcloud.com/mitxhell_iconic'
