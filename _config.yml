@@ -1,28 +1,38 @@
-name: Iconictakeover
 favicon: null
-layout_spectrum: 0.6245886473916471
-typography_spectrum: 0.22769347089342773
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Iconictakeover
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.7836874139029533
-  lightness: 0.17772533162496984
-  saturation: 0.6799182740505785
-  rhythmicContrast: 0.1616010763682425
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5016863
+  brandStrength: 1
+  lightness: 0.6028668
+  brandColors:
+    - '#1C0003'
+    - '#796543'
+    - '#2E3917'
+  rhythmicContrast: 0.5615515
+typography_spectrum: 0.2445194
+layout_spectrum: 0.8929174
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
