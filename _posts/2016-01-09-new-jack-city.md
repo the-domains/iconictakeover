@@ -17,22 +17,22 @@ keywords:
   - accessory
   - uncontrollable
 description: A story told with Slate.
-datePublished: '2016-01-09T19:26:33.638Z'
-dateModified: '2016-01-09T19:26:18.475Z'
+datePublished: '2016-01-09T20:23:43.800Z'
+dateModified: '2016-01-09T19:30:35.364Z'
 author: []
 related: []
 app_links: []
 title: New Jack City
+sourcePath: _posts/2016-01-09-new-jack-city.md
+published: true
 authors: []
 publisher:
   name: Adobe Slate
   domain: slate.adobe.com
   url: 'https://slate.adobe.com'
   favicon: 'https://d6uhzlpot4xwe.cloudfront.net/runtime/1.11/images/favicon.ico'
-sourcePath: _posts/2016-01-09-new-jack-city.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>New Jack City</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed5cfcbc8ae15be2e97632a50a11dfe432c41a72.jpg" /></article>
+<article style=""><h1>New Jack City</h1><p>A story told with Slate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46057bc235a4e18f6c33506b586457298ef4b49a.jpg" /></article>
