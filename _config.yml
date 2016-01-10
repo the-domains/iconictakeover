@@ -1,7 +1,7 @@
 name: Iconictakeover
 favicon: null
-layout_spectrum: 0.77142
-typography_spectrum: 0.65055
+layout_spectrum: 0.91429
+typography_spectrum: 0.77473
 collections:
   - index:
       path: /
@@ -34,8 +34,8 @@ color:
     - '#d0d1cb'
     - '#5b3824'
     - '#6e6f69'
-  brandStrength: 0.8125
+  brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.625
   rhythmicContrast: 0
 purpose: []
