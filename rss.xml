@@ -4,7 +4,7 @@
         <description><![CDATA[Iconictakeover]]></description>
         <link>https://thegrid.ai/iconictakeover/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 20:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 01:52:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/iconictakeover/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://slate.adobe.com/a/3KzQb/</link>
             <guid isPermaLink="false">d1d92b0e-8216-4b3b-b117-da72c43cf5ed</guid>
             <pubDate>Sat, 09 Jan 2016 20:23:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-iad3-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/12508929_196806047337668_9014884749100901944_n.jpg?oh=a06875a5233f249d768c6ead4ed0dcdb&oe=57479803">]]></description>
+            <link>https://thegrid.ai/iconictakeover/c1c7b057-9154-4988-ab8d-8dfa5e31e668/index.html</link>
+            <guid isPermaLink="false">c1c7b057-9154-4988-ab8d-8dfa5e31e668</guid>
+            <pubDate>Sun, 10 Jan 2016 01:52:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.facebook.com/IconicEntRecords/photos/pb.271646689572150.-2207520000.1452370280./701791423224339/?type=3&amp;theater</link>
             <guid isPermaLink="false">6e594908-5992-4ca6-addb-1191daa22b5e</guid>
             <pubDate>Sat, 09 Jan 2016 20:20:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d198a6b27ccdef55a6fa20ef18a20db8d06cf0a2.jpg" alt="" title="">]]></description>
-            <link>https://www.facebook.com/Icon.Mitxhell/photos/pb.333068236714473.-2207520000.1452368263./973125992708691/?type=3&amp;theater</link>
-            <guid isPermaLink="false">b0e0fc09-2d9e-4775-a604-67910d15fff5</guid>
-            <pubDate>Sat, 09 Jan 2016 19:56:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
